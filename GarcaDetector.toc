@@ -1,0 +1,6 @@
+## Interface: 60200
+## Title: GarcaDetector
+## Notes: Detecta rapida y efectivamente a los ladris que comen de mas
+## Version: 3.3.5
+## Author: Wachiwonga
+GarcaDetector.lua
